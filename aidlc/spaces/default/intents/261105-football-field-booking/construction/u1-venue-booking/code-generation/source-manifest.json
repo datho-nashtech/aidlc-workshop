@@ -1,0 +1,14 @@
+{
+  "stage": "code-generation",
+  "unit": "u1-venue-booking",
+  "version": 1,
+  "writes": [
+    { "path": "apps/u1-venue-booking/package.json" },
+    { "path": "apps/u1-venue-booking/package-lock.json" },
+    { "path": "apps/u1-venue-booking/tsconfig.json" },
+    { "path": "apps/u1-venue-booking/vitest.config.ts" },
+    { "path": "apps/u1-venue-booking/README.md" },
+    { "path": "apps/u1-venue-booking/.env.example" },
+    { "path": "apps/u1-venue-booking/src/" }
+  ]
+}

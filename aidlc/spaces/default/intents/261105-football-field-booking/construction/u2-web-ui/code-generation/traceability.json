@@ -1,0 +1,33 @@
+{
+  "stage": "code-generation",
+  "unit": "u2-web-ui",
+  "upstream_ids": [
+    "FR1.2",
+    "FR1.3",
+    "FR2.1",
+    "FR2.2",
+    "FR2.4",
+    "FR2.5",
+    "FR3.3",
+    "FR4.1",
+    "FR4.2",
+    "FR4.5",
+    "FR4.6",
+    "NFR1"
+  ],
+  "coverage": [
+    { "id": "FR1.2", "status": "OK", "target": "apps/u2-web-ui/src/shell.js" },
+    { "id": "FR1.3", "status": "OK", "target": "apps/u2-web-ui/src/app.js" },
+    { "id": "FR2.1", "status": "OK", "target": "apps/u2-web-ui/src/app.js" },
+    { "id": "FR2.2", "status": "OK", "target": "apps/u2-web-ui/src/api.js" },
+    { "id": "FR2.4", "status": "OK", "target": "apps/u2-web-ui/src/api.js" },
+    { "id": "FR2.5", "status": "OK", "target": "apps/u2-web-ui/src/app.js" },
+    { "id": "FR3.3", "status": "OK", "target": "apps/u2-web-ui/src/app.js" },
+    { "id": "FR4.1", "status": "OK", "target": "apps/u2-web-ui/src/app.js" },
+    { "id": "FR4.2", "status": "OK", "target": "apps/u2-web-ui/src/app.js" },
+    { "id": "FR4.5", "status": "OK", "target": "apps/u2-web-ui/src/shell.js" },
+    { "id": "FR4.6", "status": "OK", "target": "apps/u2-web-ui/src/app.js" },
+    { "id": "NFR1", "status": "OK", "target": "apps/u2-web-ui/index.html" }
+  ],
+  "reverse": []
+}

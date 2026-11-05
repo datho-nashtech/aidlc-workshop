@@ -1,0 +1,1 @@
+export NVM_DIR="$HOME/.nvm"; . "$NVM_DIR/nvm.sh" && nvm use 22 && npm --prefix apps/u1-venue-booking test

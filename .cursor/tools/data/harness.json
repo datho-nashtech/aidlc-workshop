@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "distribution": "cursor",
+  "productName": "Cursor",
+  "configNextStep": "open this project in Cursor, then run `/aidlc --doctor`",
+  "name": "cursor",
+  "harnessDir": ".cursor",
+  "rulesSubdir": "rules",
+  "runnerFrontmatterAdditions": [
+    "disable-model-invocation: true"
+  ],
+  "project": {
+    "schemaVersion": 1,
+    "mcp": "none",
+    "completions": "none"
+  },
+  "plugins": [
+    "aidlc"
+  ],
+  "providers": {
+    "schemaVersion": 1,
+    "provider": "current"
+  }
+}

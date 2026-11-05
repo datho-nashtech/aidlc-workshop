@@ -1,0 +1,15 @@
+manifest	dafdf3190f727810774066bbf67cc37716f97c9725db973b55f1cbd2833f60ab	-
+	apps/u1-venue-booking/.env.example	100644	b37724e73d13b34925455906010f8e3511f6d9441cec462dd346620f5c1fb9db
+	apps/u1-venue-booking/README.md	100644	2b848dc1af60ee26587f9edb8be8b7117a46f870a19b89f18bf23a37622d9023
+	apps/u1-venue-booking/package-lock.json	100644	66c5555abe96536fb60fcf58e3479a9ad0bf8fd3074481a60f3332fb04a15014
+	apps/u1-venue-booking/package.json	100644	279d2790954de5c63dc18baf3dd15ebe7dd99ea1137687861c9da30635aa8a92
+	apps/u1-venue-booking/src/http.test.ts	100644	9433420612d231ea0ac3c2f8950687dbc0bfe46b9b3c668dbce7901b2489da62
+	apps/u1-venue-booking/src/http.ts	100644	5a6ce64e38c4ac2398fad673cf08e28ac16d68827e1a216c656bdd808e29cf50
+	apps/u1-venue-booking/src/index.ts	100644	a1735a4d31daed5d1fed6f0d175312a7d75e7dc164b3c601899a64a82e58ff81
+	apps/u1-venue-booking/src/services.test.ts	100644	c55f80e2b1d15bcc33e5d6235ef1556a3e56898f2846f6db34c2056309a66b1e
+	apps/u1-venue-booking/src/services.ts	100644	03476b98089594f83bdefa7a227ff9dda39ff9fc5771179a8e7fbd4d87e357b8
+	apps/u1-venue-booking/src/store.test.ts	100644	540e238ff8670a8b0441ea6ca817b2ffab2afa65630a8b6d3658274c6aabdf4b
+	apps/u1-venue-booking/src/store.ts	100644	69641c0f9b6de252a29d41ceff95f206d4d0eb8949a10b081c0522ce667f5002
+	apps/u1-venue-booking/src/types.ts	100644	9e73097330aa6a4624b7661698cc9ea1cd41707aecfe70420da274347e2a5ee4
+	apps/u1-venue-booking/tsconfig.json	100644	e5eec5688192955ba53bc7ce14590727fcda1a54140448fe6e9b5014f4c82980
+	apps/u1-venue-booking/vitest.config.ts	100644	def8771d6d621d736d303b4216e2c7973bb1cabb8341d31f94530ff76c47056c

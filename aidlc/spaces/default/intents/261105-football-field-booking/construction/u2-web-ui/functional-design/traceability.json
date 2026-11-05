@@ -1,0 +1,25 @@
+{
+  "stage": "functional-design",
+  "unit": "u2-web-ui",
+  "upstream_ids": [
+    "FR1.3",
+    "FR2.5",
+    "FR3.3",
+    "FR4.1",
+    "FR4.2",
+    "FR4.5",
+    "FR4.6"
+  ],
+  "coverage": [
+    { "id": "FR1.3", "status": "OK", "target": "BR5.6" },
+    { "id": "FR2.5", "status": "OK", "target": "BR5.5" },
+    { "id": "FR3.3", "status": "OK", "target": "BR5.5" },
+    { "id": "FR4.1", "status": "OK", "target": "BR5.3 BR5.6 BR5.8" },
+    { "id": "FR4.2", "status": "OK", "target": "BR5.7" },
+    { "id": "FR4.5", "status": "OK", "target": "BR5.1" },
+    { "id": "FR4.6", "status": "OK", "target": "BR5.4" }
+  ],
+  "reverse": [
+    { "id": "BR5.2", "status": "N/A", "target": "NFR1 desktop-first layout; not an FR on the story map" }
+  ]
+}

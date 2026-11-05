@@ -1,0 +1,15 @@
+{
+  "name": "u2-web-ui",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve . -p 4173",
+    "test": "vitest run --config vitest.config.js"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^2.1.8",
+    "happy-dom": "^21.0.4",
+    "vitest": "^2.1.8"
+  }
+}

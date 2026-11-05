@@ -1,0 +1,18 @@
+{
+  "stage": "code-generation",
+  "unit": "u2-web-ui",
+  "version": 1,
+  "writes": [
+    { "path": "apps/u2-web-ui/package.json" },
+    { "path": "apps/u2-web-ui/package-lock.json" },
+    { "path": "apps/u2-web-ui/vitest.config.js" },
+    { "path": "apps/u2-web-ui/index.html" },
+    { "path": "apps/u2-web-ui/README.md" },
+    { "path": "apps/u2-web-ui/src/api.js" },
+    { "path": "apps/u2-web-ui/src/shell.js" },
+    { "path": "apps/u2-web-ui/src/app.js" },
+    { "path": "apps/u2-web-ui/src/api.test.js" },
+    { "path": "apps/u2-web-ui/src/shell.test.js" },
+    { "path": "apps/u2-web-ui/src/app.test.js" }
+  ]
+}
